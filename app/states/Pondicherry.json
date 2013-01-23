@@ -1,0 +1,8 @@
+{ "description": "Pondicherry", 
+    "id": "Pondicherry", 
+    "images":["img/states/po.png","img/states/1.jpg","img/states/2.jpg","img/states/3.jpg","img/states/4.png","img/states/5.jpg"], 
+    "name": "Pondicherry",
+"stype":false,
+"utype":true
+	
+  }

@@ -22,5 +22,17 @@
      "snippet": "Karnataka is a state in South West India. It was created on 1 November 1956, with the passage of the States Reorganisation Act, which is celebrated annually as Karnataka Rajyotsava.",
 	 "population":2,
 	 "imageUrl": "img/states/ka.png",
-	 "literacy":1}
+	 "literacy":1},
+	 {"id":"Delhi",
+	 "name": "Delhi",
+     "snippet": "Karnataka is a state in South West India. It was created on 1 November 1956, with the passage of the States Reorganisation Act, which is celebrated annually as Karnataka Rajyotsava.",
+	 "population":4,
+	 "imageUrl": "img/states/ka.png",
+	 "literacy":4},
+	 {"id":"Pondicherry",
+	 "name": "Pondicherry",
+     "snippet": "Karnataka is a state in South West India. It was created on 1 November 1956, with the passage of the States Reorganisation Act, which is celebrated annually as Karnataka Rajyotsava.",
+	 "population":5,
+	 "imageUrl": "img/states/ka.png",
+	 "literacy":5}
 ]
