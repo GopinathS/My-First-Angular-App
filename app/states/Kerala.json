@@ -1,0 +1,8 @@
+{ "description": "Kerala", 
+    "id": "Kerala", 
+    "images":["img/states/ka.png","img/states/1.jpg","img/states/2.jpg","img/states/3.jpg","img/states/4.png","img/states/5.jpg"], 
+    "name": "Kerala",
+"stype":false,
+"utype":true
+	
+  }

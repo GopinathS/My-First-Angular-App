@@ -1,0 +1,32 @@
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <div class="span2">
+        <!--Sidebar content-->
+
+        Search: <input ng-model="search">
+		 Sort by:
+        <select ng-model="orderState">
+          <option value="name">Alphabetical</option>
+          <option value="population">Population</option>
+		  <option value="literacy">Literacy</option>
+        </select>
+<p>Total number of states: {{states.length}}</p>
+      </div>
+      <div class="span10">
+        <!--Body content-->
+
+        <ul class="phones" >
+    <li ng-repeat="state in states | filter:search |orderBy:orderState" class="thumbnail">
+	<a href="#/states/{{state.id}}" class="thumb"><img ng-src="{{state.imageUrl}}"></a>
+            <a href="#/states/{{state.id}}">{{state.name}}</a>
+     
+      <p>
+        {{state.snippet}}
+      </p>
+    </li>
+    
+  </ul>
+
+      </div>
+    </div><div id="status">Current filter: {{search}}</div>
+  </div>
