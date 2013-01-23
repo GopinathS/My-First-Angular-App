@@ -25,14 +25,14 @@
 	 "literacy":1},
 	 {"id":"Delhi",
 	 "name": "Delhi",
-     "snippet": "Karnataka is a state in South West India. It was created on 1 November 1956, with the passage of the States Reorganisation Act, which is celebrated annually as Karnataka Rajyotsava.",
+     "snippet": "Delhi that includes the Indian capital New Delhi, stands on the Yamuna River in northern India. It is the second most populous metropolis in India after Mumbai and the largest city in terms of area.",
 	 "population":4,
-	 "imageUrl": "img/states/ka.png",
+	 "imageUrl": "img/states/de.png",
 	 "literacy":4},
 	 {"id":"Pondicherry",
 	 "name": "Pondicherry",
-     "snippet": "Karnataka is a state in South West India. It was created on 1 November 1956, with the passage of the States Reorganisation Act, which is celebrated annually as Karnataka Rajyotsava.",
+     "snippet": "Puducherry, formerly Pondicherry, is a Union Territory of India formed out of four enclaves of former French India and named after the largest, Pondicherry. The Tamil name is ?pucheri, which means New Town",
 	 "population":5,
-	 "imageUrl": "img/states/ka.png",
+	 "imageUrl": "img/states/po.png",
 	 "literacy":5}
 ]
